@@ -9,3 +9,5 @@ torch_cluster==1.5.9
 torch_scatter==2.0.8  
 torch_sparse==0.6.12  
 rdkit==2023.3.3  
+## Data
+We use PDBBind2020 as our dataset，http://pdbbind.org.cn/
