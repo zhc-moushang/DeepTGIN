@@ -1,4 +1,4 @@
-# DeepTTG
+# DeepTGIN
 A Protein Ligand Affinity Prediction Model
 
 Environment  
