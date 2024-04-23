@@ -1,5 +1,5 @@
 # DeepTGIN
-A Protein Ligand Affinity Prediction Model
+A Protein Ligand Affinity Prediction Model based on Transformer and GIN
 
 Environment  
 python==3.8  
