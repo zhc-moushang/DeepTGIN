@@ -67,9 +67,9 @@ def test(model: nn.Module, test_loader, loss_function, device, show):
 
 
 
-seed = 42
-torch.manual_seed(seed)
-np.random.seed(seed)
+
+
+
 scaler = GradScaler()
 torch.backends.cudnn.enable =True
 torch.backends.cudnn.benchmark = True
