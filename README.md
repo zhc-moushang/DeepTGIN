@@ -1,7 +1,7 @@
 # DeepTGIN
  DeepTGIN: a novel hybrid multimodal approach using Transformers and graph isomorphism networks for protein-ligand binding affinity prediction
 ```
-conda create -n DeepTGIN poython=3.8
+conda create -n DeepTGIN python=3.8
 ```
  
 ## Data
